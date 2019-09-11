@@ -11,14 +11,14 @@
   padding: 20px;
 }
 
-.imgbox {
+.top-imgbox {
   float: left;
   margin-left: 20px;
   margin-top: 20px;
   margin-right: 20px;
 }
 
-.text {
+.toptext {
   font-size: 18px;
   line-height: 22px;
   margin-left: 20px;
@@ -27,13 +27,13 @@
   word-break: break-all;
 }
 
-.imgbox2 {
+.bottom-imgbox {
   float: right;
   margin-right: 20px;
   margin-left: 20px;
 }
 
-.text2 {
+.bottomtext {
   font-size: 18px;
   line-height: 22px;
   margin-left: 20px;
